@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>95E7647A-689E-428B-BB3B-A68B103B2A0E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Music</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7BA694D4CC0848D3AF9C81CE3592B50AC33C1E97</key>
+		<string>https://github.com/xiaopan1990/xiaopan.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Music/Music.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7BA694D4CC0848D3AF9C81CE3592B50AC33C1E97</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/xiaopan1990/xiaopan.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7BA694D4CC0848D3AF9C81CE3592B50AC33C1E97</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7BA694D4CC0848D3AF9C81CE3592B50AC33C1E97</string>
+			<key>IDESourceControlWCCName</key>
+			<string>xiaopan</string>
+		</dict>
+	</array>
+</dict>
+</plist>

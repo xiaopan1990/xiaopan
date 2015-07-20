@@ -1,0 +1,15 @@
+//
+//  ViewController.h
+//  Music
+//
+//  Created by 小潘 on 15/7/19.
+//  Copyright (c) 2015年 best. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface ViewController : UIViewController
+
+
+@end
+
